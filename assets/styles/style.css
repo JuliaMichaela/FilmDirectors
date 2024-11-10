@@ -1,0 +1,41 @@
+body {
+    font-family: "Sora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-position: center;
+    background-color: #C5B79A;
+}
+h1, h2 {
+    text-align: center;
+    font-family: "Sora", serif;
+    padding: 10px;
+}
+.directorStyle {
+    border-top: 2px solid black;
+    padding-top: 20px;
+    font-family: "Sora", serif;
+}
+.career_films {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Sora", serif;
+}
+.carrerStyle {
+    color: #263C7E;
+    font-weight: 300;
+    font-family:"Sora", serif;
+}
+.filmsStyle {
+    color: #25408E;
+    text-decoration: none;
+
+}
+.bestFilmsStyle {
+    color: rgb(3, 3, 146);
+    font-weight: 300;
+    font-family: "Sora", serif;
+    text-align: center;
+    margin-bottom: 70px;
+}
